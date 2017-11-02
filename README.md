@@ -1,4 +1,4 @@
-# JavaScript Coding Challinge data
+# JavaScript Coding Challenge data
 
 This repo contains sample data to use for the JS coding challenge.
 
